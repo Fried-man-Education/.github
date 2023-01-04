@@ -1,6 +1,6 @@
 ![image](https://github.com/Fried-man-Education/.github/blob/main/banner.png)
 # About
-This GitHub organization is a "folder" of repositories for most coursework completed during my bachelor's degree in computer science. In addition to providing a means of organization and version control for my academic work, the repository also archives school programming projects and online recreational courses undertaken. Through this collection, one may gain an understanding of the topics explored and studied during my academic and personal endeavors in computer science.
+This GitHub organization is a "folder" of repositories for most programmatic coursework completed during my bachelor's degree in computer science. In addition to providing a means of organization and version control for my academic work, the repository also archives school programming projects and online recreational courses undertaken. Through this collection, one may gain an understanding of the topics explored and studied during my academic and personal endeavors in computer science.
 # Course List
 ## General
 The undergraduate degree in computer science provides a solid foundation of knowledge and skills for applying digital processes effectively to issues of broad interest in a global society. The curriculum builds on a base of fundamentals in programming and computational theory to allow each student the opportunity to explore a variety of computing paths in depth.
