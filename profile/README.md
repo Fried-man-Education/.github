@@ -19,12 +19,15 @@ The Systems & Architecture thread is where many of the practical skills of compu
 The Systems & Architecture thread deals with a complete vertical slice of system building from processor design, memory organization to virtualization and operating system layers all the way up to the programming interfaces, languages and the tool chains such as compilers, debuggers and profilers. It emphasizes different system properties such as performance, power consumption, reliability, security, and availability. This thread spans a vast spectrum of systems ranging from parallel and distributed systems to emerging multi-core systems, as well as domain specific systems (such as gaming consoles, healthcare information systems, real-time embedded controllers used in avionics, and so on).
 ### Courses
 - [Systems and Networks](https://github.com/Fried-man-Education/CS_2200) (CS 2200)
-- [Design-Operating Systems](https://github.com/Fried-man-Education/CS_3210) (CS 3210)
+- [Digital Design Lab](https://github.com/Fried-man-Education/ECE_2031) (ECE 2031)
+- Design-Operating Systems
 - Processor Design (CS 3220)
+- [Embedded Systems](https://github.com/Fried-man-Education/SECSignal) (CS 4220)
 - Compilers & Interpreters (CS 4240)
 ## Intelligence
 The Intelligence thread is concerned with top-to-bottom computational models of intelligence. To this end, we emphasize designing and implementing artifacts that exhibit various levels of intelligence as well as understanding and modeling natural cognitive agents such as humans, ants, or bees. Students acquire the technical knowledge and skills necessary for expressing, specifying, understanding, creating, and exploiting computational models that represent cognitive processes. The Intelligence thread prepares students for fields as diverse as artificial intelligence, machine learning, perception, cognitive science, and countless fields in which these areas of computational intelligence are applied.
 ### Courses
 - [Introduction to Artificial Intelligence](https://github.com/Fried-man-Education/CS_3600) (CS 3600)
-- [Introduction to Perception and Robotics](https://github.com/Fried-man-Education/CS_3630) (CS 3630)
+- Introduction to Perception and Robotics
 - [Machine Learning](https://github.com/Fried-man-Education/CS_4641) (CS 4641)
+- [Game AI](https://github.com/Fried-man-Education/CS_4731) (CS 4731)
