@@ -20,7 +20,7 @@ The Systems & Architecture thread deals with a complete vertical slice of system
 ### Courses
 - [Systems and Networks](https://github.com/Fried-man-Education/CS_2200) (CS 2200)
 - [Digital Design Lab](https://github.com/Fried-man-Education/ECE_2031) (ECE 2031)
-- Design-Operating Systems
+- Design-Operating Systems (CS 3210)
 - Processor Design (CS 3220)
 - [Embedded Systems](https://github.com/Fried-man-Education/SECSignal) (CS 4220)
 - Compilers & Interpreters (CS 4240)
@@ -28,6 +28,6 @@ The Systems & Architecture thread deals with a complete vertical slice of system
 The Intelligence thread is concerned with top-to-bottom computational models of intelligence. To this end, we emphasize designing and implementing artifacts that exhibit various levels of intelligence as well as understanding and modeling natural cognitive agents such as humans, ants, or bees. Students acquire the technical knowledge and skills necessary for expressing, specifying, understanding, creating, and exploiting computational models that represent cognitive processes. The Intelligence thread prepares students for fields as diverse as artificial intelligence, machine learning, perception, cognitive science, and countless fields in which these areas of computational intelligence are applied.
 ### Courses
 - [Introduction to Artificial Intelligence](https://github.com/Fried-man-Education/CS_3600) (CS 3600)
-- Introduction to Perception and Robotics
+- Introduction to Perception and Robotics (CS 3630)
 - [Machine Learning](https://github.com/Fried-man-Education/CS_4641) (CS 4641)
 - [Game AI](https://github.com/Fried-man-Education/CS_4731) (CS 4731)
